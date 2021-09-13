@@ -1,4 +1,3 @@
-<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
 
 ## java后端工程师-西瓜
 
